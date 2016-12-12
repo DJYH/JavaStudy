@@ -1,5 +1,5 @@
 
-//testMain
+//testMain Thread
 public class testMain {
 	public static BankAccount account = new BankAccount();
 	

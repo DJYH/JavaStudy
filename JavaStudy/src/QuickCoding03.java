@@ -1,4 +1,5 @@
 
+//QuickCoding3 Exception
 import java.util.*;
 import java.util.Scanner;
 
