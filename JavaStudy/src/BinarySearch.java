@@ -1,4 +1,4 @@
-/**
+
 import java.util.Scanner;
 import java.util.*;
 public class BinarySearch {
@@ -34,4 +34,3 @@ public class BinarySearch {
 	
 	
 }
-**/
