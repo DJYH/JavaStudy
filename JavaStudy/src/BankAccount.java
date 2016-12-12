@@ -1,5 +1,5 @@
 
-//BankAccount Thread
+//BankAccount
 public class BankAccount extends Thread {
 	private int balance = 100;
 	public int getBalance() {
